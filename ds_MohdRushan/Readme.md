@@ -2,6 +2,8 @@
 **Candidate:** Mohd Rushan  
 **Project:** Relationship Between Trader Behavior and Market Sentiment (Fear vs Greed)
 
+**Google Colab File link** : https://colab.research.google.com/drive/1K-_O0N8TgJjyZINSSm9iqs8zfOCH_m56?usp=sharing
+
 ---
 
 ## 📁 Project Structure
