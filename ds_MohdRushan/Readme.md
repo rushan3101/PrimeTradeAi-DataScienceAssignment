@@ -7,6 +7,7 @@
 ---
 
 ## 📁 Project Structure
+```
 ds_MohdRushan/
 ├── notebook_1.ipynb
 ├── csv_files/
@@ -18,7 +19,7 @@ ds_MohdRushan/
 │   └── SentimentWiseAnalysis.png
 ├── ds_report.pdf
 └── README.md
----
+```
 
 ## 🧠 Objective
 To analyze **how trading behavior (profitability, risk, volume, and leverage)** aligns or diverges from overall **market sentiment (Fear vs Greed)**.  
